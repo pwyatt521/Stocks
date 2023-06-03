@@ -13,13 +13,15 @@ Run the installer and follow the instructions provided.
 Verify the installation by opening a terminal or command prompt and typing the following command:
 
 ``` bash
-Copy code
 go version
-If you see the Go version printed, it means the installation was successful.
 ```
-## Usage
-Run the application by running go run main.go
+If you see the Go version printed, it means the installation was successful.
 
+## Usage
+Run the application by running 
+``` bash
+go run main.go
+```
 ## Contributing
 Contributions to this repository are welcome! If you find any issues or have any improvements or new features to suggest, feel free to create a pull request or open an issue. Please follow the guidelines for contributing outlined in the CONTRIBUTING.md file.
 
